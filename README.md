@@ -68,7 +68,7 @@ Installation
  1 - Authentication
  
   * Sign Up: POST /api/users/register
-  * Login: POST /api/users/Login
+  * Login: POST /api/users/login
 
  2 - Pages
 
